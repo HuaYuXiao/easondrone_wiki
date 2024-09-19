@@ -1,13 +1,20 @@
-Welcome to Lumache's documentation!
+Welcome to EasonDrone's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**EasonDrone** 是一个自主四旋翼无人机框架，基于 **PX4-Autopilot**, **MAVROS**, **ROS** 等开源框架开发，集成了控制、定位、重建、规划、视觉等功能。
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+作为开源项目，欢迎各位使用、贡献。不完善之处，还请各位大佬多多批评指正！
+
+作者联系方式:
+
+- WeChat: 13701490089
+- Mail: 12010508@mail.sustech.edu.cn
+
+同类型自主无人机框架:
+
+- https://github.com/ZJU-FAST-Lab/Fast-Drone-250
+- https://github.com/NEU-REAL/REAL_DRONE_400
+- https://github.com/zjz0001/LIO-Drone-250
 
 .. note::
 
