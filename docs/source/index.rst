@@ -1,6 +1,11 @@
 Welcome to EasonDrone's documentation!
 ===================================
 
+.. toctree::
+
+   basic_knowledge
+   drone_structure
+
 .. _introduction:
 
 Introduction
@@ -10,13 +15,9 @@ Introduction
 
 作为开源项目，欢迎各位使用、贡献。不完善之处，还请各位大佬多多批评指正！
 
-.. _contact:
+.. note::
 
-Contact
-------------
-
-- WeChat: 13701490089
-- Mail: 12010508@mail.sustech.edu.cn
+   This project is under active development.
 
 同类型自主无人机框架:
 
@@ -24,11 +25,10 @@ Contact
 - https://github.com/NEU-REAL/REAL_DRONE_400
 - https://github.com/zjz0001/LIO-Drone-250
 
-.. note::
+.. _contact:
 
-   This project is under active development.
+Contact
+------------
 
-.. toctree::
-
-   basic_knowledge
-   drone_structure
+- WeChat: 13701490089
+- Mail: 12010508@mail.sustech.edu.cn
