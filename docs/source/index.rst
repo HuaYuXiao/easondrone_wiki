@@ -28,11 +28,6 @@ Contact
 
    This project is under active development.
 
-.. _contents:
-
-Contents
---------
-
 .. toctree::
 
    basic_knowledge
