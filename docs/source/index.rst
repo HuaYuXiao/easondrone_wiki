@@ -1,20 +1,6 @@
 Welcome to EasonDrone's documentation!
 ===================================
 
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Basic knowledge
-
-   basic_knowledge
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Drone parts
-
-   drone_structure
-
 .. _introduction:
 
 Introduction
@@ -41,3 +27,11 @@ Contact
 
 - WeChat: hyx020222
 - Mail: 12010508@mail.sustech.edu.cn
+
+.. toctree::
+
+   basic_knowledge
+
+.. toctree::
+
+   drone_structure
