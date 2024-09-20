@@ -1,4 +1,4 @@
-基础知识
+Basic Knowledge
 =====
 
 .. toctree::

@@ -1,0 +1,6 @@
+Drone parts
+====
+
+.. toctree::
+
+   propeller

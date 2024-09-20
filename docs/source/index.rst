@@ -34,4 +34,4 @@ Contact
 
 .. toctree::
 
-   drone_structure
+   drone_parts
