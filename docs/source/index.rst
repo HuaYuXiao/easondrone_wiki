@@ -20,15 +20,15 @@ Welcome to EasonDrone's documentation!
 Introduction
 ------------
 
-**EasonDrone** 是一个自主四旋翼无人机框架，基于 **PX4-Autopilot**, **MAVROS**, **ROS** 等开源框架开发，集成了控制、定位、重建、规划、视觉等功能。
+**EasonDrone** is an autonomous quadrotor drone framework, developed based on open source frameworks such as **PX4-Autopilot**, **MAVROS**, **ROS**, etc., integrating control, positioning, reconstruction, planning, vision and other functions.
 
-作为开源项目，欢迎各位使用、贡献。不完善之处，还请各位大佬多多批评指正！
+As an open source project, you are welcome to use and contribute. If there are any imperfections, please criticize and correct me!
 
 .. note::
 
    This project is under active development.
 
-同类型自主无人机框架:
+Similar autonomous drone frameworks:
 
 - https://github.com/ZJU-FAST-Lab/Fast-Drone-250
 - https://github.com/NEU-REAL/REAL_DRONE_400
@@ -39,5 +39,5 @@ Introduction
 Contact
 ------------
 
-- WeChat: 13701490089
+- WeChat: hyx020222
 - Mail: 12010508@mail.sustech.edu.cn
