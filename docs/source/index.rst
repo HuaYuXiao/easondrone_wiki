@@ -4,14 +4,14 @@ Welcome to EasonDrone's documentation!
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: 基础知识
+   :caption: Basic knowledge
 
    basic_knowledge
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: 飞机部件
+   :caption: Drone parts
 
    drone_structure
 
